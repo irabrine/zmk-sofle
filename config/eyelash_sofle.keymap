@@ -162,7 +162,7 @@
 &kp F1      &kp F2      &kp F3      &kp F4      &kp F5       &mmv F6        &mmv MOVE_UP         &kp F7    &kp F8    &kp F9       &kp F10    &kp F11      &kp F12
 &kp TAB     &trans      &mkp LCLK   &mkp MCLK   &mkp RCLK    &mkp MB4       &mmv MOVE_DOWN       &trans    &trans    &kp HOME     &kp END    &kp EQUAL    &trans
 &kp LCTRL   &kp PSCRN   &trans      &trans      &trans       &mkp MB5       &mmv MOVE_LEFT       &kp BSLH  &kp LEFT  &kp DOWN     &kp UP     &kp RIGHT    &trans
-&kp LSHFT   &kp K_UNDO  &kp K_REDO  &kp K_COPY  &kp K_PASTE  &kp K_CUT      &mmv MOVE_RIGHT      &trans    &trans    &kp PG_DOWN  &kp PG_UP  &tog 2  &tog 1
+&kp LSHFT   &kp K_UNDO  &kp K_REDO  &kp K_COPY  &kp K_PASTE  &kp K_CUT      &mmv MOVE_RIGHT      &trans    &trans    &kp PG_DOWN  &kp PG_UP  &mo GAMING  &mo QWERTY
 &kp K_MUTE  &kp ESC     &kp LGUI    &kp LALT    &mo FUN      &kp SPACE      &mkp LCLK            &kp RET   &kp SYS   &kp K_APP    &kp DEL    &kp BSPC
             >;
 
@@ -175,7 +175,7 @@
 &kp F1      &kp F2      &kp F3      &kp F4      &kp F5       &mmv F6        &mmv MOVE_UP         &kp F7   &kp F8    &kp F9       &kp F10    &kp F11      &kp F12
 &kp TAB     &trans      &mkp LCLK   &mkp MCLK   &mkp RCLK    &mkp MB4       &mmv MOVE_DOWN       &trans   &kp HOME  &kp END      &trans     &kp MINUS    &kp EQUAL
 &kp LCTRL   &kp PSCRN   &trans      &trans      &trans       &mkp MB5       &mmv MOVE_LEFT       &kp LEFT &kp DOWN  &kp UP       &kp RIGHT  &kp LBKT     &kp RBKT
-&kp LSHFT   &kp K_UNDO  &kp K_REDO  &kp K_COPY  &kp K_PASTE  &kp K_CUT      &mmv MOVE_RIGHT      &trans   &trans    &kp PG_DOWN  &kp PG_UP  &tog 2  &tog 1
+&kp LSHFT   &kp K_UNDO  &kp K_REDO  &kp K_COPY  &kp K_PASTE  &kp K_CUT      &mmv MOVE_RIGHT      &trans   &trans    &kp PG_DOWN  &kp PG_UP  &mo GAMING  &mo QWERTY
 &kp K_MUTE  &kp ESC     &kp LGUI    &kp LALT    &mo FUN      &kp SPACE      &mkp LCLK            &kp RET  &kp SYS   &kp K_APP    &kp DEL    &kp BSPC
             >;
 
