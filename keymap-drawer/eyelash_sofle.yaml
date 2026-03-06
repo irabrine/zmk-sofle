@@ -137,7 +137,7 @@ layers:
   - F3
   - F4
   - F5
-  - '&mmv F6'
+  - F6
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F7
   - F8
@@ -202,7 +202,7 @@ layers:
   - F3
   - F4
   - F5
-  - '&mmv F6'
+  - F6
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F7
   - F8
@@ -282,7 +282,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - RGB SPD
-  - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -295,7 +295,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - RGB EFR
-  - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -308,7 +308,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - RGB EFF
-  - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
