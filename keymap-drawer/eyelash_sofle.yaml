@@ -246,8 +246,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - PG DOWN
   - PG UP
-  - {t: gaming, h: toggle}
-  - {t: qwerty, h: toggle}
+  - gaming
+  - qwerty
   - MUTE
   - $$mdi:keyboard-esc$$
   - LGUI
@@ -311,8 +311,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - PG DOWN
   - PG UP
-  - {t: gaming, h: toggle}
-  - {t: qwerty, h: toggle}
+  - gaming
+  - qwerty
   - MUTE
   - $$mdi:keyboard-esc$$
   - LGUI
