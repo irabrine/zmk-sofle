@@ -71,7 +71,7 @@
         compatible = "zmk,behavior-tap-dance";
         #binding-cells = <0>;
         tapping-term-ms = <200>;
-        bindings = <&mo fun>, <&sl fun>;
+        bindings = <&mo FUN>, <&sl FUN>;
       };
 
       rgb_encoder: rgb_encoder = {
